@@ -11,6 +11,7 @@ y_data = x_data * 0.1 + 0.3
 
 #git succeed
 this should be delete
+third time 
 ### create tensorflow structure start ###
 Weights = tf.Variable(tf.random_uniform([1], -1.0, 1.0))
 biases = tf.Variable(tf.zeros([1]))
